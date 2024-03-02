@@ -11,6 +11,7 @@ public class ProfessorAllocationExercicioApplication {
 		SpringApplication.run(ProfessorAllocationExercicioApplication.class, args);
 		//Exercicio java com Spring Bot
 		System.out.println("teste nairton");
+		System.out.println("teste Jamesson");
 	}
 
 }
